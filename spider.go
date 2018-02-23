@@ -1,4 +1,4 @@
-package spider
+package main
 import (
 	"fmt"
 	"io/ioutil"
